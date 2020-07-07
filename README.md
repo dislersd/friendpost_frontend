@@ -1,10 +1,11 @@
 # Friend Post
 
 Post your thoughts and share ideas with your friends! 
+Live site: https://friendpost.netlify.app/
 
 
 Tech used:
-* Create React App
+* React
 * GraphQL
 * Apollo Client
 * Semantic UI
@@ -12,7 +13,10 @@ Tech used:
 Backend repo can be found here:
 https://github.com/dislersd/graphql-react-social-app
 
-In the project directory, you can run:
+In the project directory, run:
+
+### `yarn install`
+Installs dependencies.
 
 ### `yarn start`
 
